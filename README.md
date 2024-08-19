@@ -1,4 +1,4 @@
-![dj_accion](https://github.com/user-attachments/assets/179d918f-1bc8-40f3-b070-fc206ec538d8)# practicoHTML
+# practicoHTML
 
 Este es un proyecto simple que utiliza solo HTML para demostrar la estructura básica de una página web. El proyecto no incluye CSS ni JavaScript, enfocándose únicamente en la construcción de una página HTML.
 
